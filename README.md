@@ -2,7 +2,7 @@
 Temp sense stuff
 
 
-[Coffee Link](https://learn.adafruit.com/tmp36-temperature-sensor/example-projects)
+[Coffee Link](http://makercommons.org/2014/04/28/cool-coaster-too-hot-just-right-too-cold/)
 
 [sensor setup ](http://www.bc-robotics.com/tutorials/using-a-tmp36-temperature-sensor-with-arduino/)
 
