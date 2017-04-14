@@ -19,6 +19,6 @@ void loop() {
   temp = temp * 100;                   //Convert to degrees 
   temp = (temp * 9/5) + 32; // convert to Far
 
-  Serial.print("Current Temperature: ");
+//  Serial.print("Current Temperature: ");
   Serial.println(temp);
 }
